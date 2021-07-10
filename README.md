@@ -59,8 +59,8 @@ _이탤릭_
 
   ![]()
 
-  ![HEROPY](https://heropy.blog/css/images/logo.png)
-  [![HEROPY](https://heropy.blog/css/images/logo.png)](https://jgone2.tistory.com/)
+  ![Jgone2](https://tistory2.daumcdn.net/tistory/4798444/attach/8c9cae1ec11c44a3b8e4e140a1694157)
+  [![Jgone2](https://tistory2.daumcdn.net/tistory/4798444/attach/8c9cae1ec11c44a3b8e4e140a1694157)](https://jgone2.tistory.com/)
 
   # 인용문(BlockQuote)
   
@@ -127,7 +127,7 @@ fixed | 뷰포트 | X
 
 ---
 
-<img width="70" src="https://heropy.blog/css/images/logo.png" alt="HEROPY">
+<img width="70" src="https://tistory2.daumcdn.net/tistory/4798444/attach/8c9cae1ec11c44a3b8e4e140a1694157" alt="HEROPY">
 
 # 수평선(Horizontal Rule)
 
